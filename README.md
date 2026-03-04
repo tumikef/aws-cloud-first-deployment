@@ -1,3 +1,7 @@
+Itumeleng Kefeletswe
+DevOps Engineer | Hybrid Cloud Consultant
+4+ Years Experience in Private and Government Projects
+Specializing in CI/CD, Containerization, Cloud Infrastructure
 
 # AWS Cloud-First Deployment
 
@@ -28,3 +32,14 @@ AWS EC2, ECR, Docker, GitHub, SSH
 
 ## Screenshots
 ...
+
+
+
+
+
+## Lessons Learned
+
+- Importance of IAM least privilege
+- Managing Docker image versions
+- Understanding cloud networking basics
+- Secure SSH key management
